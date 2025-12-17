@@ -1,4 +1,4 @@
-# Custom Eslint Configuration <br /> Using Stylistic for Better Format In Visual Studio Code
+# Custom Eslint Configuration Using Stylistic <br /> For Better Format In Visual Studio Code.
 
 Here, we are using stylistic for better format, if you want to know more about stylistic, you can visit [stylistic](https://github.com/stylistic/stylistic). Do you looking for javascript or typescript format better like bellow?
 
@@ -89,7 +89,7 @@ export default defineConfig([
 
 Than we can write rules that we want to use. Here i will give you suggestion rules that you can use.
 
-``` json
+``` typescript
 {
   // General Stylistic Rules
   '@stylistic/array-bracket-spacing'            : [ 'error', 'always' ],
